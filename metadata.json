@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield — AI-Assisted Scam Awareness and Prevention",
+  "description": "Comprehensive cybersecurity dashboard for detecting phishing messages, verifying suspicious URLs, interactive threat simulation, cybersecurity quizzes, and incident documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
